@@ -16,7 +16,7 @@ Se utilizaron bibliotecas third-party cómo:
 
 -[CircleImageView](https://github.com/hdodenhof/CircleImageView).
 
-##Uso
+## Uso
 
 Para obtener los datos del perfil público de Facebook se hace uso del [API GRAPH](https://developers.facebook.com/docs/graph-api). Al terminar la obtención de datos del perfil público del usuario, estos datos se guardan en la clase UsuarioFacebook, para posteriormente usarlos. 
 
